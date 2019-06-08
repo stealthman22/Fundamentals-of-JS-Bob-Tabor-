@@ -1,0 +1,44 @@
+body {
+    background-color: #7f8c8d;
+    padding: 2em;
+    padding-top: 0;
+    font-family: serif;
+}
+
+h1 {
+    font-family: cursive sans-serif;
+    font-weight: normal;
+    color: white;
+    letter-spacing: 1px;
+}
+
+button {
+    height: 30px;
+    width: 80px;
+    background-color: rgb(175, 57, 57);
+    color: #fff;
+    outline: none;
+
+}
+
+
+
+
+
+
+#resultDiv {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1em;
+}
+
+.selected {
+    border-bottom: black 5px solid;
+    padding: 0 0 0 0;
+}
+
+#colorDiv {
+    margin-top: 20px;
+    height: 200px;
+    width: 80vw;
+    background: #f4f4f4;
+}
